@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Quidder</title>
+        <link rel="stylesheet" href="taggingbox_files/formoid/formoid-default.css" type="text/css" />
+        <script type="text/javascript" src="js/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="js/popup.js"></script>
+        <script type="text/javascript" src="js/tab.js"></script>
+    </head>
+    <body class="body-box">
+        <form id="addbookmark" class="formoid-default formoid-box">
+            <input type="hidden" id="url" name="url" value="" />
+            <div class="element-input"  title="Enter a tag that represents how this resource helps you. Example: learn about Eiffel Tower.">
+                <label class="title">This resource helps me to: <span class="required">*</span></label>
+                <textarea id="summary" name="summary" cols="5" rows="3" required="required"></textarea>
+            </div>
+            <div id="save" class="element-submit" ><input type="submit" value="Submit"/></div>
+        </form>
+    </body>
+</html>
