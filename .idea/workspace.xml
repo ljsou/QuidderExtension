@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08fbe4a3-a691-4555-af3f-cbbd77ba4c84" name="Default" comment="" />
+    <list default="true" id="08fbe4a3-a691-4555-af3f-cbbd77ba4c84" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/popup.js" afterPath="$PROJECT_DIR$/js/popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tab.js" afterPath="$PROJECT_DIR$/js/tab.js" />
+    </list>
     <ignored path="QuidderExtension.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +29,7 @@
       <file leaf-file-name="popup.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/popup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="19" selection-start="3089" selection-end="3089" vertical-scroll-proportion="-9.52" vertical-offset="1037" max-vertical-offset="2465">
+            <state line="113" column="53" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.0" vertical-offset="1705" max-vertical-offset="2380">
               <folding />
             </state>
           </provider>
@@ -35,7 +38,7 @@
       <file leaf-file-name="background.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/background.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="527">
+            <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -44,7 +47,7 @@
       <file leaf-file-name="content_script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/content_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="9" column="4" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -53,7 +56,7 @@
       <file leaf-file-name="TaggingBox.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaggingBox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="21" selection-start="1017" selection-end="1017" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="442">
+            <state line="17" column="21" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
@@ -62,7 +65,7 @@
       <file leaf-file-name="QuidderExSignUp.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="69" selection-start="719" selection-end="719" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="493">
+            <state line="14" column="69" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -80,7 +83,7 @@
       <file leaf-file-name="tab.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/tab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="36" selection-start="507" selection-end="507" vertical-scroll-proportion="0.40614334" vertical-offset="0" max-vertical-offset="586">
+            <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586">
               <folding />
             </state>
           </provider>
@@ -89,7 +92,7 @@
       <file leaf-file-name="manifest.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="28" selection-start="424" selection-end="424" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="391">
+            <state line="6" column="28" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -161,6 +164,22 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Tests" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="QuidderExtension">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,34 +232,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Tests" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="QuidderExtension">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="appearance" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -258,6 +261,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -266,14 +277,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -413,14 +416,12 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="453" selection-end="453" vertical-scroll-proportion="0.3327645" vertical-offset="468" max-vertical-offset="2040">
-          <folding />
-        </state>
+        <state line="39" column="0" selection-start="453" selection-end="453" vertical-scroll-proportion="0.3327645" vertical-offset="468" max-vertical-offset="2040" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="28" selection-start="424" selection-end="424" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="391">
+        <state line="6" column="28" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
@@ -434,7 +435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/background.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="527">
+        <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
@@ -448,28 +449,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TaggingBox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="1017" selection-end="1017" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="442">
+        <state line="17" column="21" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="442">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="69" selection-start="719" selection-end="719" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="493">
+        <state line="14" column="69" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="493">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="19" selection-start="3089" selection-end="3089" vertical-scroll-proportion="-9.52" vertical-offset="1037" max-vertical-offset="2465">
+        <state line="113" column="53" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.0" vertical-offset="1705" max-vertical-offset="2380">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/tab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="36" selection-start="507" selection-end="507" vertical-scroll-proportion="0.40614334" vertical-offset="0" max-vertical-offset="586">
+        <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>

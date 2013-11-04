@@ -3,19 +3,14 @@
  * and open the template in the editor.
  */
 
-console.log("entró: " + localStorage.getItem('pin') + ". .");
+console.log("entró: " + localStorage.getItem('pin'));
 
-if(localStorage.getItem('pin') == null){
-    console.log("pin is null");
+if((localStorage.getItem('pin') == null) || (localStorage.getItem('pin') == '')){
+    console.log("pin is: " + localStorage.getItem('pin'));
     chrome.browserAction.setPopup({
         popup:"QuidderExSignUp.html"
     });
-}if(localStorage.getItem('pin') == ''){
-    console.log("pin is '.'");
-    chrome.browserAction.setPopup({
-        popup:"QuidderExSignUp.html"
-    });
-}if(localStorage.getItem('pin') != '') {
+} else {
     console.log("pin is not null");
     chrome.browserAction.setPopup({
         popup:"TaggingBox.html"
