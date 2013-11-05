@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fbe4a3-a691-4555-af3f-cbbd77ba4c84" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/popup.js" afterPath="$PROJECT_DIR$/js/popup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tab.js" afterPath="$PROJECT_DIR$/js/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuidderExSignUp.html" afterPath="$PROJECT_DIR$/QuidderExSignUp.html" />
     </list>
     <ignored path="QuidderExtension.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuidderExSignUp.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="QuidderExSignUp.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="69" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="493">
+            <state line="19" column="18" selection-start="957" selection-end="957" vertical-scroll-proportion="0.57678574" vertical-offset="0" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
@@ -80,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="tab.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/tab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586">
+            <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -126,9 +125,9 @@
         <option value="$PROJECT_DIR$/TaggingBox.html" />
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css" />
-        <option value="$PROJECT_DIR$/QuidderExSignUp.html" />
         <option value="$PROJECT_DIR$/js/popup.js" />
         <option value="$PROJECT_DIR$/js/tab.js" />
+        <option value="$PROJECT_DIR$/QuidderExSignUp.html" />
       </list>
     </option>
   </component>
@@ -454,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="69" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/popup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="113" column="53" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.0" vertical-offset="1705" max-vertical-offset="2380">
@@ -470,7 +462,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/tab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.49317408" vertical-offset="0" max-vertical-offset="586">
+        <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="957" selection-end="957" vertical-scroll-proportion="0.57678574" vertical-offset="0" max-vertical-offset="560">
           <folding />
         </state>
       </provider>
