@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Quidder",
     "version": "1.0",
-    "description": "Adds the current page to the Quidder bookmarking system. Quidder is an easy tool allows you to keep, share, and discover the best of the Web. It´s a great place allows you to save, organize, and remember the resources (by their links) you find useful and interesting on the web.",
+    "description": "Adds the current page to the Quidder bookmarking system.",
     "permissions": [
         "tabs",  "storage", "http://*/*", "https://*/*"
     ],
