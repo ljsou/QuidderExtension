@@ -17,11 +17,12 @@ it enables the capture of the user's perception about the usefulness of a web re
 Chrome gives you a quick way of loading up an extension directory. Let's do that now.
 
 1. Download this Repository as a Zip file by clicking the icon **Download ZIP**.
-2. Visit `chrome://extensions` in your browser (or open up the Chrome menu by clicking the icon to the far right of the [Omnibox](http://developer.chrome.com/static/images/hotdogmenu.png):
+2. Unzip the Repository.
+3. Visit `chrome://extensions` in your browser (or open up the Chrome menu by clicking the icon to the far right of the [Omnibox](http://developer.chrome.com/static/images/hotdogmenu.png):
 and select Extensions under the Tools menu to get to the same place).
-2. Ensure that the **Developer mode** checkbox in the top right-hand corner is checked.
-3. Click **Load unpacked extension…** to pop up a file-selection dialog.
-4. Navigate to the directory in which your Quidder extension files live, and select it.
+4. Ensure that the **Developer mode** checkbox in the top right-hand corner is checked.
+5. Click **Load unpacked extension…** to pop up a file-selection dialog.
+6. Navigate to the directory in which your Quidder extension files live, and select it.
 
 If the extension is valid, it'll be loaded up and active right away! If it's invalid, an error message will be displayed at the top of the page. 
 So, try again.
