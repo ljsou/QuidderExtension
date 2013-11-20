@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08fbe4a3-a691-4555-af3f-cbbd77ba4c84" name="Default" comment="init QuidderExtension">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TaggingBox.html" afterPath="$PROJECT_DIR$/TaggingBox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css" afterPath="$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/popup.js" afterPath="$PROJECT_DIR$/js/popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tab.js" afterPath="$PROJECT_DIR$/js/tab.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="QuidderExtension.iws" />
@@ -25,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="popup.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="popup.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/popup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.16935484" vertical-offset="54" max-vertical-offset="2772">
+            <state line="37" column="85" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="2720">
               <folding />
             </state>
           </provider>
@@ -37,7 +41,7 @@
       <file leaf-file-name="background.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/background.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="558">
+            <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -46,7 +50,7 @@
       <file leaf-file-name="content_script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/content_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="432">
+            <state line="9" column="4" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -55,7 +59,7 @@
       <file leaf-file-name="TaggingBox.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaggingBox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="21" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="468">
+            <state line="18" column="32" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -64,16 +68,16 @@
       <file leaf-file-name="QuidderExSignUp.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="7" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="522">
+            <state line="14" column="62" selection-start="712" selection-end="712" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formoid-default.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="formoid-default.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="19" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="14220">
+            <state line="23" column="17" selection-start="381" selection-end="381" vertical-scroll-proportion="0.36106488" vertical-offset="174" max-vertical-offset="13617">
               <folding />
             </state>
           </provider>
@@ -82,7 +86,7 @@
       <file leaf-file-name="tab.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/tab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="558">
+            <state line="24" column="2" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -91,7 +95,7 @@
       <file leaf-file-name="manifest.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="75" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="414">
+            <state line="4" column="75" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -122,19 +126,21 @@
       <list>
         <option value="$PROJECT_DIR$/js/background.js" />
         <option value="$PROJECT_DIR$/js/content_script.js" />
-        <option value="$PROJECT_DIR$/TaggingBox.html" />
-        <option value="$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css" />
-        <option value="$PROJECT_DIR$/js/tab.js" />
         <option value="$PROJECT_DIR$/QuidderExSignUp.html" />
         <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/js/getipaddress.js" />
+        <option value="$PROJECT_DIR$/js/tab.js" />
         <option value="$PROJECT_DIR$/js/popup.js" />
+        <option value="$PROJECT_DIR$/TaggingBox.html" />
+        <option value="$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1366" />
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1432" />
+    <option name="y" value="124" />
+    <option name="width" value="1376" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -235,7 +241,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="http.proxy" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
@@ -329,14 +335,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <frame x="1432" y="124" width="1376" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.52540106" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51102465" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18515901" sideWeight="0.47459894" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17352942" sideWeight="0.48897535" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -367,9 +373,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/popup.js">
+    <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+        <state line="4" column="75" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
@@ -415,20 +421,6 @@
         <state line="39" column="0" selection-start="453" selection-end="453" vertical-scroll-proportion="0.3327645" vertical-offset="468" max-vertical-offset="2040" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="19" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="13430">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/tab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="29" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="75" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="414">
@@ -443,30 +435,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/background.js">
+    <entry file="file://$PROJECT_DIR$/js/tab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="527">
+        <state line="24" column="2" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TaggingBox.html">
+    <entry file="file://$PROJECT_DIR$/js/background.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="468">
+        <state line="13" column="4" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/QuidderExSignUp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="522">
+        <state line="14" column="62" selection-start="712" selection-end="712" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="493">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.16935484" vertical-offset="54" max-vertical-offset="2772">
+        <state line="37" column="85" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="2720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaggingBox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="32" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taggingbox_files/formoid/formoid-default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="17" selection-start="381" selection-end="381" vertical-scroll-proportion="0.36106488" vertical-offset="174" max-vertical-offset="13617">
           <folding />
         </state>
       </provider>

@@ -17,6 +17,17 @@
     cursor: pointer;
 }
 
+#viewprogress {
+    float: right;
+    margin: -20px 5px 0px 0px;
+    cursor: pointer;
+    font-size: 11px;
+    color: darkgrey;
+}
+#viewprogress:hover {
+    color: cornflowerblue;
+}
+
 .formoid-default{
 	margin:0 auto;
 }
